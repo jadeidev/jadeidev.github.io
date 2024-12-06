@@ -1,0 +1,30 @@
+disabled = false
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Jadei.dev"
+
+[params]
+displayName = "EN"
+isoCode = "en"
+rtl = false
+dateFormat = "2 January 2006"
+# logo = "img/general/logo.jpg"
+# secondaryLogo = "img/general/logo.jpg"
+description = "Jade's personal website"
+
+[params.author]
+name = "Itamar (Jade) Balla"
+email = "jade@jadei.dev"
+image = "img/general/logo.jpg"
+imageQuality = 96
+headline = "Cloud & MLOps Architect<br> Nanotechnologist"
+# bio = ""
+links = [
+  { email = "mailto:jade@jadei.dev" },
+  { link = "https://jadei.dev/" },
+  { github = "https://github.com/jadeidev" },
+  { linkedin = "https://www.linkedin.com/in/itamar-balla" },
+  { orcid = "https://orcid.org/0000-0002-9358-5743" },
+  { google-scholar = "https://scholar.google.com/citations?user=ivjLBtIAAAAJ&hl=en" },
+]
