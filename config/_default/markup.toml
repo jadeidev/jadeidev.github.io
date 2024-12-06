@@ -3,11 +3,13 @@
 
 [goldmark]
 [goldmark.renderer]
-  unsafe = true
+unsafe = true
+[goldmark.parser.attribute]
+block = true
 
 [highlight]
-  noClasses = false
+noClasses = false
 
 [tableOfContents]
-  startLevel = 2
-  endLevel = 4
+startLevel = 2
+endLevel = 4
