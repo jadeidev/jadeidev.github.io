@@ -46,7 +46,7 @@ jobs:
 
   # Deploy website to GitHub Pages hosting
   deploy:
-    if: ${{ github.ref == 'refs/heads/main' }}
+    # if: ${{ github.ref == 'refs/heads/main' }}
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
