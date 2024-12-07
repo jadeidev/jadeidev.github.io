@@ -1,0 +1,11 @@
+{{ $header := .Get "header" }}
+<div class="mb-10 break-words">
+  {{ if $header }}
+  <h2 class="mt-0 text-left">
+      {{ $header }} 
+  </h2>
+  {{ end }}
+  <div class="mb-6 text-left">
+  {{- .Inner -}}
+  </div>
+</div>
