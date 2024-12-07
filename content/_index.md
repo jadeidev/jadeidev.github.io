@@ -3,24 +3,20 @@
 <br>
 <br>
 <br>
-
-{{< resumeList >}}
-
-{{< resumeListItem text="left" header="About Me" icon="">}}
+{{< homepageItem header="About Me" >}}
 Hi there! I’m Itamar Balla, but you can call me Jade. I’m a developer, cloud architect, and MLOps enthusiast with a passion for crafting solutions at the intersection of data, distributed systems, and cutting-edge technology.<br>
 My journey in tech has spanned roles at Carl Zeiss Semiconductor Manufacturing Technology and Intel, where I contributed to advancements in photomask, semiconductor process optimization, and data-driven system development. Along the way, I earned a Ph.D. in Materials Science & Engineering, which shaped my analytical approach to problem-solving. Today, I thrive on designing cloud-native systems, orchestrating Kubernetes clusters, and optimizing distributed computing pipelines for machine learning and AI workloads. Whether it’s building scalable architectures or deploying intelligent systems, I love transforming complex challenges into elegant, efficient solutions.<br>
-{{< /resumeListItem >}}
+{{< /homepageItem >}}
 
-
-{{< resumeListItem icon="code" header="Education" >}}
+{{< homepageItem header="Education" >}}
 <ul>
     <li>Ph.D. in Materials Engineering, Northwestern University, Evanston, IL, USA</li>
-    <li>B.Sc., Materials Engineering, cum laude, Technion - Israel Institute of Technology, Haifa, Israel</li>
-    <li>B.Sc., Chemistry, cum laude, Technion - Israel Institute of Technology, Haifa, Israel</li>
+    <li>B.Sc. Materials Engineering, cum laude, Technion - Israel Institute of Technology, Haifa, Israel</li>
+    <li>B.Sc. Chemistry, cum laude, Technion - Israel Institute of Technology, Haifa, Israel</li>
 </ul>
-{{< /resumeListItem >}}
+{{< /homepageItem >}}
 
-{{< resumeListItem icon="code" header="Skills" >}}
+{{< homepageItem header="Skills" >}}
 <div class="grid grid-cols-1 md:grid-cols-3 gap-4 w-full">
     <div class="mb-4 md:mb-0">
         <h4 class="font-bold mb-2">Languages</h4>
@@ -56,6 +52,4 @@ My journey in tech has spanned roles at Carl Zeiss Semiconductor Manufacturing T
         </ul>
     </div>
 </div>
-{{< /resumeListItem >}}
-
-{{< /resumeList >}}
+{{< /homepageItem >}}
