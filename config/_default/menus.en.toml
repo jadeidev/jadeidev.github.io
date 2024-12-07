@@ -21,7 +21,7 @@
 
 [[main]]
 name = "Publications"
-pre = "googlescholar"
+pre = "google-scholar"
 pageRef = "publications"
 weight = 20
 
