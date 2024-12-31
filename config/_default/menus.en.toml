@@ -15,9 +15,11 @@
 #  pageRef = "posts"
 #  weight = 10
 
-# [[main]]
-# name = "Home"
-# weight = 20
+[[main]]
+name = "Home"
+weight = 20
+pageRef = "/"
+pre = "logo"
 
 [[main]]
 name = "Publications"
