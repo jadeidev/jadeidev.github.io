@@ -36,6 +36,7 @@ My journey in tech has spanned roles at Carl Zeiss Semiconductor Manufacturing T
             <li>Kubernetes</li>
             <li>Git</li>
             <li>GRPC</li>
+            <li>OpenTelemetry</li>
             <li>FastAPI</li>
             <li>Dask</li>
             <li>Django</li>
