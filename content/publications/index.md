@@ -4,13 +4,13 @@ layout: "simple"
 ---
 
 
-1. **A Virtual Defect Metrology System Utilizing Photolithography Scanner Topography Maps to Quantitatively Detect Gross Defects, Perform in-line Yield Prediction and Identify Defect Generating Tools (Invited Paper)** by Bose, P.; Pandey, V.K.; Staib, M.; Womach, B.; **Balla, I.**; Olmedo, M.; Khandelwal, A.; Lerner, T.; Ahmadi, A.; Bisht, G. [SPIE Advanced Lithography, Conference Paper 13426-23](https://spie.org/advanced-lithography/presentation/A-virtual-defect-metrology-system-utilizing-photolithography-scanner-topography-maps/13426-23)
+1. **A Virtual Defect Metrology System Utilizing Photolithography Scanner Topography Maps to Quantitatively Detect Gross Defects, Perform in-line Yield Prediction and Identify Defect Generating Tools (Invited Paper)** by Bose, P.; Pandey, V.K.; Staib, M.; Womach, B.; **Balla, I.**; Olmedo, M.; Khandelwal, A.; Lerner, T.; Ahmadi, A.; Bisht, G. [_SPIE Advanced Lithography 2025, Conference Paper 13426-23_](https://spie.org/advanced-lithography/presentation/A-virtual-defect-metrology-system-utilizing-photolithography-scanner-topography-maps/13426-23)
 <br>
 
-1. **Ultrahigh Vacuum Self-Assembly of Rotationally Commensurate C8-BTBT/MoS<sub>2</sub>/Graphene Mixed-Dimensional Heterostructures** by Liu, X.; **Balla, I.**; Sangwan, V. K.; Usta, H.; Facchetti, A., Marks, T.J.; Hersam, M. C. [_Chemistry of Materials 31 (5), 1761-1766_](https://doi.org/10.1021/acs.chemmater.8b05348)
-<br>{{< figure src="img/publications/Ultrahigh_Vacuum_Self-Assembly_of_Rotationally_Commensurate_C8-BTBT_MOS2.jpg" >}}
+1. **Ultrahigh Vacuum Self-Assembly of Rotationally Commensurate C8-BTBT/MoS<sub>2</sub>/Graphene Mixed-Dimensional Heterostructures** by Liu, X.; **Balla, I.**; Sangwan, V. K.; Usta, H.; Facchetti, A., Marks, T.J.; Hersam, M. C. [_Chemistry of Materials 2019, 31 (5), 1761-1766_](https://doi.org/10.1021/acs.chemmater.8b05348)
+<br>{{< figure src="img/publications/Ultrahigh_Vacuum_Self-Assembly_of_Rotationally_Commensurate_C8-BTBT_MOS2.jpg" >}} 
 
-1. **Selective Transfer of Rotationally Commensurate MoS<sub>2</sub> from an Epitaxially Grown van der Waals Heterostructure** by Kang, J.<sup>\*</sup>; **Balla, I.**<sup>\*</sup>; Bergeron, H.; Kim, S; Wolverton, C; Hersam, M. C. [_Chemistry of Materials 30 (23), 8495-8500_](https://doi.org/10.1021/acs.chemmater.8b03128)
+1. **Selective Transfer of Rotationally Commensurate MoS<sub>2</sub> from an Epitaxially Grown van der Waals Heterostructure** by Kang, J.<sup>\*</sup>; **Balla, I.**<sup>\*</sup>; Bergeron, H.; Kim, S; Wolverton, C; Hersam, M. C. [_Chemistry of Materials 2018, 30 (23), 8495-8500_](https://doi.org/10.1021/acs.chemmater.8b03128)
 <br><small><sup>\*</sup>Authors of equal contribution</small>
 <br>{{< figure src="img/publications/Selective_Transfer_of_Rotationally_Commensurate_MoS2.jpg" >}}
 
