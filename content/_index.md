@@ -4,8 +4,8 @@
 <br>
 <br>
 {{< homepageItem header="About Me" >}}
-Hi there! I’m Itamar Balla, but you can call me Jade. I’m a developer, cloud architect, and MLOps enthusiast with a passion for crafting solutions at the intersection of data, distributed systems, and cutting-edge technology.<br>
-My journey in tech has spanned roles at Carl Zeiss Semiconductor Manufacturing Technology and Intel, where I contributed to advancements in photomask, semiconductor process optimization, and data-driven system development. Along the way, I earned a Ph.D. in Materials Science & Engineering, which shaped my analytical approach to problem-solving. Today, I thrive on designing cloud-native systems, orchestrating Kubernetes clusters, and optimizing distributed computing pipelines for machine learning and AI workloads. Whether it’s building scalable architectures or deploying intelligent systems, I love transforming complex challenges into elegant, efficient solutions.<br>
+Hey! I'm Jade (Itamar Balla). I work as a cloud architect, focusing on MLOps platforms and distributed systems. After getting my PhD in materials science, I jumped into software development and data science to improve semiconductor manufacturing. I've been designing cloud solutions and solving technical challenges by utilizing distributed systems and Kubernetes orchestration ever since.
+These days, I specialize in cloud-native architectures and MLOps platforms at scale. Always excited to collaborate on interesting projects or discuss the latest in cloud tech - feel free to reach out!<br>
 {{< /homepageItem >}}
 
 {{< homepageItem header="Education" >}}
