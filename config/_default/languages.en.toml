@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Jadei.dev"
+title = "jadei.dev"
 
 [params]
 displayName = "EN"
