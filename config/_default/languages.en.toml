@@ -22,7 +22,7 @@ headline = "Cloud & MLOps Architect<br> Nanotechnologist"
 # bio = ""
 links = [
   { email = "mailto:jade@jadei.dev" },
-  { linkedin = "https://www.linkedin.com/in/itamar-balla" },
+  { linkedin = "https://www.linkedin.com/in/jadeidev" },
   { github = "https://github.com/jadeidev" },
   { orcid = "https://orcid.org/0000-0002-9358-5743" },
   { google-scholar = "https://scholar.google.com/citations?user=ivjLBtIAAAAJ&hl=en" },
