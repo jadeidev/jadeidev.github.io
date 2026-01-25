@@ -4,7 +4,7 @@ layout: "simple"
 ---
 
 
-1. **A Virtual Defect Metrology System Utilizing Photolithography Scanner Topography Maps to Quantitatively Detect Gross Defects, Perform in-line Yield Prediction and Identify Defect Generating Tools (Invited Paper)** by Bose, P.; Pandey, V.K.; Staib, M.; Womach, B.; **Balla, I.**; Olmedo, M.; Khandelwal, A.; Lerner, T.; Ahmadi, A.; Bisht, G. [_Proc. SPIE 13426, Metrology, Inspection, and Process Control XXXIX, 134260Q 2025_](https://doi.org/10.1117/12.3050587)
+1. **A Virtual Defect Metrology System Utilizing Photolithography Scanner Topography Maps to Quantitatively Detect Gross Defects, Perform in-line Yield Prediction and Identify Defect Generating Tools** by Bose, P.; Pandey, V.K.; Staib, M.; Womach, B.; **Balla, I.**; Olmedo, M.; Khandelwal, A.; Ahmadi, A.; Bisht, G. [_Journal of Micro/Nanopatterning, Materials, and Metrology, Vol. 24, Issue 04, 041404, 2025_](https://doi.org/10.1117/1.JMM.24.4.041404)
 <br>
 
 1. **Ultrahigh Vacuum Self-Assembly of Rotationally Commensurate C8-BTBT/MoS<sub>2</sub>/Graphene Mixed-Dimensional Heterostructures** by Liu, X.; **Balla, I.**; Sangwan, V. K.; Usta, H.; Facchetti, A., Marks, T.J.; Hersam, M. C. [_Chemistry of Materials 2019, 31 (5), 1761-1766_](https://doi.org/10.1021/acs.chemmater.8b05348)
