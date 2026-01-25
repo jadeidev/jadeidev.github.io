@@ -30,7 +30,7 @@ jobs:
       - name: Setup Hugo
         uses: peaceiris/actions-hugo@v2
         with:
-          hugo-version: "latest" #latest is broken waiting for https://github.com/nunocoracao/blowfish/pull/2055
+          hugo-version: "latest"
           extended: true
       - name: Setup Pages
         id: pages
